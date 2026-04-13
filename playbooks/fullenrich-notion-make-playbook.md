@@ -11,7 +11,7 @@
 | Tool | Role |
 |---|---|
 | **Notion** | CRM source of truth — contacts DB with name, company, email, position |
-| **FullEnrich** | Phone enrichment API (~50 credits per enrichment attempt) |
+| **FullEnrich** | Phone enrichment API (~10 credits per enrichment attempt) |
 | **Make.com** | Automation backbone |
 | **Gmail** | Notification on enrichment result (success or failure) |
 
