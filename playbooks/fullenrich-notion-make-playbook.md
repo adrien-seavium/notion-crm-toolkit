@@ -187,7 +187,7 @@ Email: [Email Address]
 
 ## 💡 Tips & Gotchas
 
-- **Credit cost:** FullEnrich charges ~50 credits per attempt, successful or not. The Router avoids wasted calls by branching cleanly on empty results.
+- **Credit cost:** FullEnrich charges ~10 credits per attempt, successful only. The Router avoids wasted calls by branching cleanly on empty results.
 - **Webhook URL security:** Never commit your Make webhook URL to a public repo. Store it in a `.env` file or your team's secrets manager. Rotate it if leaked.
 - **Notion Legacy → Data Source:** Migrate when Make prompts you — it avoids future bugs. Re-map all fields after migration.
 - **Better match rate:** Adding a LinkedIn URL to the FullEnrich module significantly improves phone match success (~30% uplift in practice). Worth adding to your Notion DB as a field.
