@@ -22,7 +22,7 @@ Make.com workflows that extend your Notion CRM without writing code.
 
 | # | Playbook | What it does | Requires |
 |---|----------|-------------|---------|
-| 01 | [Get Phone from C-Level](playbooks/fullenrich-notion-make.md) | Enriches a contact's phone number via FullEnrich, updates Notion, notifies by email | Make.com + FullEnrich + Gmail |
+| 01 | [Get Phone from C-Level](https://github.com/adrien-seavium/notion-crm-toolkit/blob/main/playbooks/fullenrich-notion-make-playbook.md) | Enriches a contact's phone number via FullEnrich, updates Notion, notifies by email | Make.com + FullEnrich + Gmail |
 
 > More playbooks coming. Built one? Open a PR.
 
